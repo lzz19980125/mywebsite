@@ -7,14 +7,11 @@ superuser: true
 
 # Role/position/tagline
 role: 北京科技大学 控制工程 专业硕士
-      南京工业大学 自动化 学士
 
 # Organizations/Affiliations to show in About widget
 organizations:
 - name: University of Science and Technology Beijing
   url: https://saee.ustb.edu.cn/
-- name: Nanjing Tech University
-  url: http://eecs.njtech.edu.cn/
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
@@ -43,21 +40,15 @@ education:
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "/#contact" for contact widget.
 social:
-- icon: envelope
-  icon_pack: fas
-  link: '/#contact'
-- icon: twitter
+- icon: zhihu  # Alternatively, use `google-scholar` icon from `ai` icon pack
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
-- icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
-  icon_pack: fas
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://www.zhihu.com/people/li-sir-44-94
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/
 - icon: linkedin
   icon_pack: fab
-  link: https://www.linkedin.com/
+  link: https://www.linkedin.com/in/%E6%B3%BD%E4%B8%AD-%E6%9D%8E-3b397b1b2/
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/media/resume.pdf`, enable `ai` icons in `params.toml`, 
