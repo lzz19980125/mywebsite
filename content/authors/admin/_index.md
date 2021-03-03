@@ -6,7 +6,7 @@ title: 李泽中
 superuser: true
 
 # Role/position/tagline
-role: 北京科技大学 控制工程 专业硕士（在读）
+role: 北京科技大学 控制工程 硕士（在读）
 
 # Organizations/Affiliations to show in About widget
 organizations:
