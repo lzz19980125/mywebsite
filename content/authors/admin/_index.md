@@ -7,7 +7,7 @@ superuser: true
 
 # Role/position/tagline
 role: 北京科技大学 电子信息（控制工程）硕士
-role: 南京工业大学 自动化 学士
+      南京工业大学 自动化 学士
 
 # Organizations/Affiliations to show in About widget
 organizations:
