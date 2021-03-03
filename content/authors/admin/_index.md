@@ -6,7 +6,7 @@ title: 李泽中
 superuser: true
 
 # Role/position/tagline
-role: 北京科技大学 电子信息（控制工程）硕士
+role: 北京科技大学 控制工程 专业硕士
       南京工业大学 自动化 学士
 
 # Organizations/Affiliations to show in About widget
