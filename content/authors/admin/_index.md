@@ -49,6 +49,9 @@ social:
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/%E6%B3%BD%E4%B8%AD-%E6%9D%8E-3b397b1b2/
+- icon: cv
+  icon_pack: ai
+  link: uploads/resume.pdf
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/media/resume.pdf`, enable `ai` icons in `params.toml`, 
