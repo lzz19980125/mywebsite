@@ -40,9 +40,9 @@ education:
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "/#contact" for contact widget.
 social:
-- icon: zhihu  # Alternatively, use `google-scholar` icon from `ai` icon pack
-  icon_pack: fab
-  link: https://www.zhihu.com/people/li-sir-44-94
+#- icon: zhihu  # Alternatively, use `google-scholar` icon from `ai` icon pack
+#  icon_pack: fab
+#  link: https://www.zhihu.com/people/li-sir-44-94
 - icon: github
   icon_pack: fab
   link: https://github.com/
